@@ -17,7 +17,22 @@ The database is structured to handle critical social media operations, utilizing
 * `follows`: Network and algorithmic feed foundation.
 * `tags` & `photo_tags`: Content categorization and trending topic mapping.
 
----
+-----------------------------------------------------------------------------------------
+<img width="897" height="242" alt="Screenshot 2026-06-13 121117" src="https://github.com/user-attachments/assets/83e69b4e-a592-4f0b-901a-c0dd1c6051a5" />
+
+<img width="815" height="240" alt="Screenshot 2026-06-13 121122" src="https://github.com/user-attachments/assets/9c7b1c60-0be5-4dd9-8400-d2748b0620e8" />
+
+<img width="780" height="277" alt="Screenshot 2026-06-13 121129" src="https://github.com/user-attachments/assets/c1e97e03-a0d2-4060-b85f-2671aa8fe0c6" />
+
+<img width="777" height="257" alt="Screenshot 2026-06-13 121136" src="https://github.com/user-attachments/assets/61ee0c65-1d14-4ce7-ac2f-29497c1cfefb" />
+
+<img width="803" height="247" alt="Screenshot 2026-06-13 121142" src="https://github.com/user-attachments/assets/25f0d658-55ee-4563-ab83-8caa5ac8667b" />
+
+<img width="843" height="412" alt="Screenshot 2026-06-13 121149" src="https://github.com/user-attachments/assets/fa4b607a-e3ed-4cfd-aa8d-90110daa5dab" />
+
+
+
+--------------------------------------------------------------------------------------------------
 
 ## 📊 Analytical Challenges & Business Solutions
 Rather than executing basic CRUD operations, the queries in this repository are framed around solving real-world corporate challenges. 
