@@ -30,6 +30,7 @@ The database is structured to handle critical social media operations, utilizing
 
 <img width="843" height="412" alt="Screenshot 2026-06-13 121149" src="https://github.com/user-attachments/assets/fa4b607a-e3ed-4cfd-aa8d-90110daa5dab" />
 
+<img width="1908" height="865" alt="Screenshot 2026-06-13 121100" src="https://github.com/user-attachments/assets/10c02d8f-2f8d-4a47-9eb2-6d36fd28ed81" />
 
 
 --------------------------------------------------------------------------------------------------
@@ -43,7 +44,8 @@ Rather than executing basic CRUD operations, the queries in this repository are 
 * **Impact:** Ensures clean, reliable data extraction for user engagement and machine learning models.
 
 **Query Execution & Results:**
-![Bot Detection Query Output](assets/bot_detection_output.png)
+<img width="947" height="683" alt="Screenshot 2026-06-13 122233" src="https://github.com/user-attachments/assets/9d8b7b9d-e26e-40b5-adce-d6ecb73440e4" />
+
 
 ### 2. User Engagement & Retention (`user_engagement.sql`)
 * **The Business Problem:** Identifying drop-off points and optimizing marketing budgets.
@@ -51,7 +53,16 @@ Rather than executing basic CRUD operations, the queries in this repository are 
 * **Impact:** Provides actionable metrics to marketing and growth teams to improve overall platform retention rates.
 
 **Query Execution & Results:**
-![Ghost User Identification Output](assets/ghost_users_output.png)
+<img width="658" height="397" alt="Screenshot 2026-06-13 121826" src="https://github.com/user-attachments/assets/9a42acc1-987b-4dc0-ae37-851c1279802a" />
+
+<img width="916" height="485" alt="Screenshot 2026-06-13 121917" src="https://github.com/user-attachments/assets/0508b39a-38f5-44db-9535-9f9a90468405" />
+
+<img width="967" height="712" alt="Screenshot 2026-06-13 121956" src="https://github.com/user-attachments/assets/4dd289aa-d0f8-489f-a90f-05a7fd0d66b9" />
+
+<img width="866" height="542" alt="Screenshot 2026-06-13 122036" src="https://github.com/user-attachments/assets/e500da24-63d9-4d07-aae2-a0f630ca1676" />
+
+<img width="753" height="313" alt="Screenshot 2026-06-13 122108" src="https://github.com/user-attachments/assets/381943f7-cfcd-442c-92b0-cfa24466f052" />
+
 
 ### 3. Algorithmic Content Tagging (`hashtag_trends.sql`)
 * **The Business Problem:** Ad-targeting and feed generation rely on surfacing trending topics.
@@ -59,7 +70,8 @@ Rather than executing basic CRUD operations, the queries in this repository are 
 * **Impact:** Simulates the data extraction process required to build dynamic, real-time trending feeds.
 
 **Query Execution & Results:**
-![Trending Hashtags Output](assets/hashtag_trends_results.png)
+<img width="792" height="502" alt="Screenshot 2026-06-13 122148" src="https://github.com/user-attachments/assets/f85726e4-77c8-413f-8407-adfeb358c523" />
+
 
 ---
 
