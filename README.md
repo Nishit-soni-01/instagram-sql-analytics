@@ -8,7 +8,7 @@ A fully normalized relational database mirroring Instagram's core architecture. 
 ## 🏗️ Entity-Relationship (ER) Architecture
 The database is structured to handle critical social media operations, utilizing composite primary keys and foreign key constraints to ensure strict referential integrity.
 
-![Database ER Diagram](assets/schema_creation.png)
+![Database ER Diagram](assets/instagram_clone_erd.png)
 
 **Core Tables:**
 * `users`: Core profile directory.
