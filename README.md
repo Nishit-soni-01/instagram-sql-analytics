@@ -87,8 +87,3 @@ Rather than executing basic CRUD operations, the queries in this repository are 
 │   ├── bot_detection.sql
 │   └── hashtag_trends.sql
 └── assets/
-    ├── banner_placeholder.png
-    ├── schema_creation.png
-    ├── bot_detection_output.png
-    ├── ghost_users_output.png
-    └── hashtag_trends_results.png
