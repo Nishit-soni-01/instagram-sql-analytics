@@ -19,6 +19,7 @@ The database is structured to handle critical social media operations, utilizing
 
 <details>
 <summary><b>📂 Click to view Schema Creation & Data Insertion Proofs</b></summary>
+    
 <br>
 
 <img width="897" height="242" alt="Screenshot 2026-06-13 121117" src="https://github.com/user-attachments/assets/83e69b4e-a592-4f0b-901a-c0dd1c6051a5" />
