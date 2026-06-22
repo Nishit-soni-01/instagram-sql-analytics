@@ -18,6 +18,7 @@ The database is structured to handle critical social media operations, utilizing
 * `tags` & `photo_tags`: Content categorization and trending topic mapping.
 
 <details>
+    
 <summary><b>📂 Click to view Schema Creation & Data Insertion Proofs</b></summary>
     
 <br>
